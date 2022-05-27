@@ -2,6 +2,9 @@
 Java Plugin Api based on eric golde´s GenericJarLoader: https://github.com/egold555/MCP-Snippets/tree/master/JarLoader
 
 in this doc we use IntelliJ
+librarys we used:
+https://github.com/google/gson/tree/gson-parent-2.4
+https://projectlombok.org/downloads/lombok-1.18.20.jar
 
 # Documentation
 
