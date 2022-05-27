@@ -1,5 +1,7 @@
 # JavaPluginApi
-Java Plugin Api based on eric golde´s GenericJarLoader: https://github.com/egold555/MCP-Snippets/tree/master/JarLoader
+Java Plugin Api based on eric golde´s GenericJarLoader:
+
+https://github.com/egold555/MCP-Snippets/tree/master/JarLoader
 
 in this doc we use IntelliJ.
 
