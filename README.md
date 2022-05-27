@@ -44,9 +44,10 @@ api.getLoader().unload(new File("<Addon File>"));
 
 - then we can export our plugin, in IntelliJ we need an artifact that puts the libraries directly into the jar.
 - In IntelliJ this is called "extract to the target Jar".
-- we can optional delete the other folders, but not the code we just written!
 
 - We now have to build this artifact.
+
+- we can optional delete the other folders, but not the code we just written!
 
 - Now we have to delete the Mainfest folder in the Addon Jar and add a file called "plugin.json":
 ```Json
